@@ -1,0 +1,49 @@
+.nav {
+background-color: rgb(80, 78, 78);
+/* width: 1200px; */
+height: 100px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+
+
+}
+.nav-title {
+    color: white;
+
+
+}
+a {
+    color: white;
+    text-decoration: none;
+    
+
+
+}
+
+h1 {
+    margin: 30px;
+
+
+}
+.nav-links {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    width: 50%;
+    align-items: center;
+
+}
+
+
+.btn {
+width: 120px;
+background-color: dodgerblue;
+height: 40px;
+align-items: center;
+box-shadow: 5px 5px black;
+border: none;
+color: white;
+
+}
