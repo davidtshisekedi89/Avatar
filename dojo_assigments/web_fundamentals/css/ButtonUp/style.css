@@ -1,0 +1,32 @@
+.btn {
+    display: block;
+    width: 200px;
+    height: 30px;
+    color: aquamarine;
+    border-radius: 20px;
+    margin: 20px;
+    border: 2px solid aquamarine;
+    font-size: 1rem;
+    font-weight: bold;
+    
+}
+.btn2 {
+    display: block;
+    width: 50px;
+    background-color: aquamarine;
+    color: white;
+    margin: 20px;
+    border-radius: 50%;
+    height: 50px;
+}
+.btn3{
+    display: block;
+    width: 200px;
+    height: 30px;
+    background-color: dodgerblue;
+    color: white;
+    box-shadow: 2px 2px 2px black;
+    border: 2px solid black;
+    margin: 20px;
+
+}
