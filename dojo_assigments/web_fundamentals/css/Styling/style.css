@@ -1,0 +1,29 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    height: 60px;
+    
+}
+
+h2 {
+    height: 40px;
+    background-color: rebeccapurple;
+    font-style: italic;
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+
+h3 {
+    height: 30px;
+    background-color: cadetblue;
+    text-decoration: underline;
+    text-align: right;
+}
+h1 span {
+    color: cyan;
+}
